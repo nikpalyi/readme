@@ -5,9 +5,7 @@ Welcome to my GitHub profile, which is the home for my open source projects. I e
 
 I am:
 
-🇩🇪 Based in Germany with my 👨‍👩‍👦 Family
-👔 Work on Spring Data, R2DBC, Lettuce, and other projects
-🤓 Enjoy building libraries that make your daily work fun
-🎵 Electronic Music Artist
-🔊 Speaker
-😻 Having a Cat
+#🇩🇪 Based in Germany with my 👨‍👩‍👦 Family
+#👔 Work on Spring Data, R2DBC, Lettuce, and other projects
+#🤓 Enjoy building libraries that make your daily work fun
+#🎵 Electronic Music Artist
